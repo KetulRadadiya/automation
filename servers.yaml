@@ -1,0 +1,18 @@
+vms:
+  children:
+    dev_servers:
+      hosts:
+        dev-a.example.com: null
+        dev-b.example.com: null
+        dev-c.example.com: null
+    stage_servers:
+      hosts:
+        stage-a.example.com: null
+        stage-b.example.com: null
+        stage-c.example.com: null
+    prod_servers:
+      hosts:
+        a.example.com: null
+        b.example.com: null
+        c.example.com: null
+        d.example.com: null
